@@ -1,0 +1,5 @@
+CREATE TABLE 'producto'(
+    'id' INTEGER NOT NULL PRIMARY KEY AUTOINCRMENT,
+    'producto'  TEXT NOT NULL,
+    'precio' REAL NOT NULL
+)
